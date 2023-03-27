@@ -218,8 +218,6 @@ impl Mainpage{
                                 <Anchor route=AppRoute::InputPage {idProject : card.id.oid.clone()}>
                                     <button type="button" class="btn btn-primary btn-sm pl-3">{"Setting"}
                                     </button>
-                                    <button type="button" class="btn btn-primary btn-sm pl-3">{"Setting"}
-                                    </button>
                                  </Anchor>
                                     
                                 </div>
