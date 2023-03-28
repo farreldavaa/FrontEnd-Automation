@@ -147,6 +147,7 @@ impl Component for App {
                 <RenderMember/>
             </div>
         }
+        
         // let is_logged_in = self.username.is_some();
 
         // if is_logged_in {
